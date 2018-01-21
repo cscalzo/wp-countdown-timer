@@ -1,0 +1,24 @@
+.countdown_timer_wrapper {
+	font-family: "Roboto", Arial, sans-serif;
+}
+
+.countdown-timer-wrapper .days .countdown-value,
+.countdown-timer-wrapper .hours .countdown-value,
+.countdown-timer-wrapper .minutes .countdown-value,
+.countdown-timer-wrapper .seconds .countdown-value {
+	font-weight: 500;
+	font-size: 4em;
+	line-height: 1em;
+	margin: 0px;
+	padding: 0px;
+}
+
+.countdown-timer-wrapper .days .countdown-label,
+.countdown-timer-wrapper .hours .countdown-label,
+.countdown-timer-wrapper .minutes .countdown-label,
+.countdown-timer-wrapper .seconds .countdown-label {
+	font-weight: 300;
+	text-transform: uppercase;
+	margin:0px;
+	padding: 0px;
+}
